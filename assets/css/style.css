@@ -1,0 +1,71 @@
+/*common code start*/
+.container{
+	width: 80%;
+	margin: 0px auto;
+	border:1px solid teal;
+	box-sizing:border-box;
+}
+/*common code end*/
+body{
+	margin:0px;
+}
+.float-left{
+	float:left;
+	height:100%;
+	border:1px solid teal;
+	box-sizing:border-box;
+}
+.w-25{
+	width:25%;
+}
+.w-50{
+	width:50%;
+}
+.w-75{
+	width:75%;
+}
+.w-100{
+	width:100%;
+}
+
+/*header section start*/
+header{
+	height: 120px;
+}
+/*logo start*/
+.logo{
+	
+}
+/*logo end*/
+/*banner start*/
+.banner{
+	
+}
+/*banner end*/
+/*header section end*/
+/*nav section start*/
+nav{
+	height: 60px;
+}
+/*nav section end*/
+/*main section start*/
+main{
+	height: 400px;
+}
+aside{
+	
+}
+/*main section end*/
+/*top-footer section start*/
+.top-footer{
+	height: 150px;
+}
+.child-content{
+	
+}
+/*top-footer section end*/
+/*footer section start*/
+footer{
+	height: 50px;
+}
+/*footer section end*/
